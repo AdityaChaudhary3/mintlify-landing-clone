@@ -21,13 +21,10 @@ A modern, responsive landing page clone inspired by Mintlify's design, featuring
 ```
 ├── index.html
 ├── style.css
-├── bg-light.svg
-├── mintlify-wordmark.svg
-├── logo.svg
-└── Screenshots/
-    ├── ss1.png
-    ├── ss2.png
-    └── ss4.png
+└── assets/
+    ├── sbg-light.svg
+    ├── mintlify-wordmark.svg
+    ├── logo.svg
 ```
 
 ## Setup
