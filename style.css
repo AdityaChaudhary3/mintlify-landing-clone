@@ -2,7 +2,7 @@ body {
   margin: 0 auto;
   max-width: calc(100% - 400px);
   padding: 0;
-  background-image: url(bg-light.svg);
+  background-image: url(assets/bg-light.svg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
