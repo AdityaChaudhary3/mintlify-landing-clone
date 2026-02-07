@@ -5,6 +5,9 @@ A modern, responsive landing page clone inspired by Mintlify's design, featuring
 
 ## Screenshots
 
+Live Link - [Click here](https://adityachaudhary3.github.io/mintlify-landing-clone/)
+
+OR visit URl https://adityachaudhary3.github.io/mintlify-landing-clone/
 
 
 ## Technologies Used
